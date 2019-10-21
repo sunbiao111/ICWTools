@@ -1,0 +1,6 @@
+framework module Pods_ICWTools_Tests {
+  umbrella header "Pods-ICWTools_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

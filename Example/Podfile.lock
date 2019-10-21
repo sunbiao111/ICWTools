@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ICWTools (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ICWTools (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ICWTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ICWTools: 3396089bd42e4bca243ec28448aa0f435cb7872c
+
+PODFILE CHECKSUM: 0b4f8debabbcc65f0aa162055dd3affae9388281
+
+COCOAPODS: 1.5.3

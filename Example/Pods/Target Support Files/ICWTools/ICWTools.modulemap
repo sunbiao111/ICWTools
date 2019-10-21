@@ -1,0 +1,6 @@
+framework module ICWTools {
+  umbrella header "ICWTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
